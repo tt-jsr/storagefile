@@ -1,25 +1,3 @@
-/***************************************************************************
- *    
- *                Unpublished Work Copyright (c) 2012
- *                  Trading Technologies International, Inc.
- *                       All Rights Reserved Worldwide
- *
- *          * * *   S T R I C T L Y   P R O P R I E T A R Y   * * *
- *
- * WARNING:  This program (or document) is unpublished, proprietary property
- * of Trading Technologies International, Inc. and is to be maintained in
- * strict confidence. Unauthorized reproduction, distribution or disclosure 
- * of this program (or document), or any program (or document) derived from
- * it is prohibited by State and Federal law, and by local law outside of 
- * the U.S.
- *
- ***************************************************************************
- * $Source: storagefile.h $
- * $Date: 2012/04/26 10:31:30CDT $
- * $Author: Jeff Richards (TT) (jrichards) $
- * $Revision: 1.1 $
- ***************************************************************************/
- 
 #pragma once
 
 #ifndef STORAGE_FILE_H_INCLUDED
